@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: c:\net\data\arkservice\921dc2cc-278e-4dc8-96af-51257c28cd11\s\e\Node_Bus.PcbDoc
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.02
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=17.01
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=12.99
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

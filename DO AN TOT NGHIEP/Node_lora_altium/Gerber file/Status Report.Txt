@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 4:19:31 PM On 10/10/2026
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Node_Bus.PcbDoc]
+   Generated File[Node_Bus-RoundHoles.TXT]
+   Generated File[Node_Bus-SlotHoles.TXT]
+   Generated File[Node_Bus.LDP]
+   Generated File[Node_Bus.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 4:19:31 PM On 10/10/2026

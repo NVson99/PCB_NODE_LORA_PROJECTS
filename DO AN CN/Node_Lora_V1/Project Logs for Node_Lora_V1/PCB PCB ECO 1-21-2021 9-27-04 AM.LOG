@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=MOSI Pin=C4-6
+Removed Pin From Net: NetName=MISO Pin=C4-7
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=CheckAcQ Pin=D1-2
+Removed Pin From Net: NetName=+12V Pin=M1-1
+Removed Pin From Net: NetName=+12V Pin=U1-1
+Removed Member From Class: ClassName=Schematic Member=D1
+Change Component Designator: OldDesignator=DIO1 NewDesignator=DIO2
+Added Component: Designator=DIO1(DIO-SMD-106)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=C4-6
+Added Pin To Net: NetName=MOSI Pin=C4-7
+Added Pin To Net: NetName=+12V Pin=DIO1-1
+Added Pin To Net: NetName=+3.3V Pin=M1-1
+Change Net Name : Old Net Name=NetDIO1_2 New Net Name=NetDIO2_2
+Added Pin To Net: NetName=NetDIO1_2 Pin=DIO1-2
+Added Pin To Net: NetName=NetDIO1_2 Pin=U1-1
+Added Net: Name=NetDIO1_2
+Added Member To Class: ClassName=Schematic Member=Component DIO2 Diode SMD

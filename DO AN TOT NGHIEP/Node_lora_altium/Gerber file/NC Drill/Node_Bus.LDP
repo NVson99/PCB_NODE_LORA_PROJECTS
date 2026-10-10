@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: c:\net\data\arkservice\921dc2cc-278e-4dc8-96af-51257c28cd11\s\e\Node_Bus.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=node_bus-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=node_bus-slotholes.txt|DrillLayers=gtl,gbl
